@@ -2,7 +2,7 @@
 - 
 - 🌱 I’m currently learning HTML,CSS
 - 
-- 📫 How to reach me 
+- 📫 based in Bad Hönningen
 
 <!---
 catrafa/catrafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
