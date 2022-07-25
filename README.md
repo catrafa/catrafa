@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Catarina
 - 
 - 🌱 I’m currently learning HTML,CSS
-- 
-- 📫 based in Bad Hönningen
+-  📫 based in Bad Hönningen
 
 <!---
 catrafa/catrafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
